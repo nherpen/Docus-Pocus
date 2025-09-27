@@ -6,7 +6,7 @@ Table: Summary
 |--------------|--------------------------|
 | Customer     | Bright Photonics |
 | Author       | Noud van Herpen |
-| Date         | 13-12-2025|
+| Date         | 14-12-2025|
 | Version      | 0.1 |
 | Status       | Draft |
 
@@ -27,7 +27,7 @@ Bright Photonics aims to ramp up testing of PICs. When a batch of PICs returns f
 Bright is determined to develop a test setup in their lab that is capable of testing 1000 PICs per day. The setup in mind fulfills functions in three categories:
  1. **Die handling**: Transferring a die from gel-pak to die chuck, positioning the chuck, aligning optical & electrical probes to the PIC & scanning PIC geometry.
  2. **Optical measurements**: Various measurements including a tunable laser, polarisation controller, optical power meter & DC current measurements.
- 3. **Overhead**: Data handling, sequence generation, safety features, report generation, device management & procedures. 
+ 3. **Overhead**: Data handling & management, sequence generation, safety features, report generation, device management & procedures. 
 
 Ultimately, a gel-pak can be placed in the test setup, PICs will be loaded & unloaded automatically on a chuck where a sequence of optical measurements are executed, resulting in a performance report. Figure N shows this process roughly.
 
