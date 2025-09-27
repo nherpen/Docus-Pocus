@@ -40,7 +40,7 @@ PIC designs incorporate numerous microscopic optic devices, each type needing va
 
 ## Requirements
 
-Table: Requirements
+[Table: Requirements]
 | ID | Requirement | Verification Method |
 |----|-------------|---------------------|
 | 230180-SOW-01 | The setup can transfer a PIC from gel-pak to chuck with 100 [um] repeatability | Repeatability test|
